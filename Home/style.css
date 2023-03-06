@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 :root{
-    --primary-color: #691B9A;
+    --primary-color: #1e48a3;
     --secondary-color: #E62E7E;
     --shadow: rgb(157 157 157 / 20%) 0px 4px 10px;
     --heading-color: #363A45;
@@ -175,7 +175,7 @@ nav .container {
     height: 60rem;
 	border-radius: 50% 22% 40% 80%;  
 	filter: blur(10rem);
-    background: radial-gradient(circle at 50% 50%,rgba(76, 0, 255, 1), rgba(76, 0, 255, 0));
+    background: radial-gradient(circle at 50% 50%,rgba(30,74,131, 1), rgba(76, 0, 255, 0));
     opacity: 0.4;
 }
 .hero-row {
